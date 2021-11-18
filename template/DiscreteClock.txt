@@ -1,0 +1,7 @@
+-----include declaration
+
+-----function declaration
+
+-----variable declaration
+${type_output}$ ${out_output}$ = 1;
+-----fire function

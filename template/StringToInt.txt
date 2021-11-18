@@ -1,0 +1,11 @@
+-----include declaration
+#include <stdlib.h>
+-----function declaration
+int stringToInt(char* str)
+{
+    return atoi(str);
+}
+-----variable declaration
+${type_output}$ ${out_output}$ = 0;
+-----fire function
+${out_output}$ = stringToInt(${in_input}$);

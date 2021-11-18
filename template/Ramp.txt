@@ -1,0 +1,8 @@
+-----include declaration
+
+-----function declaration
+
+-----variable declaration
+static ${type_output}$ ${out_output}$ = ${para_init}$ - ${para_step}$;
+-----fire function
+${out_output}$ += ${para_step}$;

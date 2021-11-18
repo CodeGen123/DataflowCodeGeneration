@@ -1,0 +1,8 @@
+-----include declaration
+#include <stdlib.h>
+#include <stdio.h>
+-----function declaration
+
+-----variable declaration
+
+-----fire function

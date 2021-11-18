@@ -1,0 +1,5 @@
+char* stringCopy(char* str){
+  char* ret = (char*)malloc(strlen(str)+1);
+  strcpy(ret,str);
+  return ret;
+}

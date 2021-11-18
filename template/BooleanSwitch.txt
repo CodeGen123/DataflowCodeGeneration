@@ -1,0 +1,8 @@
+-----include declaration
+
+-----function declaration
+
+-----variable declaration
+
+-----fire function
+if(${in_control}$)

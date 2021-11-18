@@ -1,0 +1,8 @@
+-----include declaration
+
+-----function declaration
+
+-----variable declaration
+static ${type_output}$ ${out_output}$ = 0;
+-----fire function
+${out_output}$ += ${in_input}$;

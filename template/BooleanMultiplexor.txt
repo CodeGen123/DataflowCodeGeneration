@@ -1,0 +1,9 @@
+-----include declaration
+
+-----function declaration
+
+-----variable declaration
+
+-----fire function
+if(${in_select}$) ${out_output}$ = ${in_trueInput}$;
+else ${out_output}$ = ${in_falseInput}$;

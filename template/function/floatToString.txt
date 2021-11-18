@@ -1,0 +1,5 @@
+char* intToString(float n){
+  char* ret = (char*)malloc(12);
+  sprintf(ret, "%f", n);
+  return ret;
+}
